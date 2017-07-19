@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://roof.techno-krovlya.ru/index.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/catalog.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/objects.php</loc>
+		<changefreq>weekly</changefreq>
+ 	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/order.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/price.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/reviews.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/services.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/contacts.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+	<url>
+		<loc>http://roof.techno-krovlya.ru/pages/video.php</loc>
+		<changefreq>weekly</changefreq>
+	</url>
+</urlset>

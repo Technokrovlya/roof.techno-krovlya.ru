@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /img/reviews/
+Sitemap: http://roof.techno-krovlya.ru/sitemap.xml
+Host: http://roof.techno-krovlya.ru

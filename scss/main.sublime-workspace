@@ -1,0 +1,622 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"jc",
+				"jc-sb\tjustify-content: space-between;"
+			],
+			[
+				"bc",
+				"bdcl-c\tborder-collapse: collapse;"
+			],
+			[
+				"bdrrds",
+				"border-radius"
+			],
+			[
+				"shop",
+				"ncurses_show_panel"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"send",
+				"sendMessage"
+			],
+			[
+				"alin",
+				"align-items"
+			],
+			[
+				"lh",
+				"line-height"
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"bsz",
+				"box-sizing"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"flex-",
+				"flex-wrap"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"ov",
+				"ov-a\toverflow: auto;"
+			],
+			[
+				"lstn",
+				"list-n\tlist-style-type: none;"
+			],
+			[
+				"pr",
+				"padding-right"
+			],
+			[
+				"txtal",
+				"text-align"
+			],
+			[
+				"space-",
+				"space-between"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"d",
+				"d-f\tdisplay: flex;"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"ls",
+				"list-style"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"bsp",
+				"bdsp\tborder-spacing"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pos",
+				"pos-f\tposition: fixed;"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"bn",
+				"bd-n\tborder: none;"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"ta",
+				"ta-c\ttext-align: center;"
+			],
+			[
+				"flew",
+				"flex-flow"
+			],
+			[
+				"fi",
+				"figcaption\tTag"
+			],
+			[
+				"v-a",
+				"va-m\tvertical-align: middle;"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"color-",
+				"color-yellow"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"li",
+				"lis-n\tlist-style: none;"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"s",
+				"square"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"cu",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"va",
+				"va-m\tvertical-align: middle;"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"m",
+				"m-a\tmargin: auto;"
+			],
+			[
+				"align",
+				"align-items"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 415.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/openserver/domains/kurt.dev/app/scss/main.scss",
+		"/C/openserver/domains/kurt.dev/app/index.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/delivery.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/vorota.php",
+		"/C/Users/Технокровля/Desktop/Участники конкурса Триммер - копия.txt",
+		"/C/OpenServer/domains/kurt.dev/app/img/svg/logo.svg",
+		"/C/Users/Технокровля/Desktop/Активные зеркальчане.html",
+		"/C/OpenServer/domains/carlson.dev/app/scss/main.scss",
+		"/C/openserver/domains/carlson.dev/app/index.php",
+		"/C/Users/Технокровля/Desktop/sitemap.xml",
+		"/C/Users/Технокровля/Desktop/1.php",
+		"/C/openserver/domains/carlson.dev/app/img/svg/menu.svg",
+		"/C/openserver/domains/carlson.dev/app/img/svg/mobile-phone.svg",
+		"/C/openserver/domains/carlson.dev/app/img/svg/map.svg",
+		"/C/Users/Технокровля/Desktop/logo-big.svg",
+		"/C/Users/Технокровля/Downloads/jquery.parallax-0.2/jquery.parallax-0.2-min.js",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/stroi.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/teplicy.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/dso.php",
+		"/C/OpenServer/domains/kurt.dev/app/scss/main.scss",
+		"/C/OpenServer/domains/kurt.dev/app/index.php",
+		"/C/openserver/domains/kurt.dev/app/pages/confidence.php",
+		"/C/openserver/domains/dobor.dev/app/index.php",
+		"/C/openserver/domains/dobor.dev/app/scss/main.scss",
+		"/C/openserver/domains/shop.dev/app/index.php",
+		"/C/openserver/domains/dobor.dev/gulpfile.js",
+		"/C/Users/Технокровля/Desktop/Активные лофтовчане.html",
+		"/C/Users/Технокровля/Desktop/А4.pdf",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/kov.php",
+		"/C/openserver/domains/kurt.dev/app/mailer.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/thanks.php",
+		"/C/OpenServer/domains/shop.dev/app/scss/main.scss",
+		"/C/OpenServer/domains/shop.dev/app/index.php",
+		"/C/Users/Технокровля/Desktop/212.php",
+		"/C/OpenServer/domains/kurt.dev/dist/pages/products/teplicy.php",
+		"/C/openserver/domains/kurt.dev/dist/pages/products/teplicy.php",
+		"/C/Users/Технокровля/Desktop/Куски кода из shop.dev меню и товары.php",
+		"/C/openserver/domains/shop/shop/db_fns.php",
+		"/C/openserver/domains/shop/shop/index.php",
+		"/C/openserver/domains/shop/shop/views/pages/index.php",
+		"/C/openserver/domains/shop/shop/views/pages/product.php",
+		"/C/openserver/domains/shop/shop/cart_fns.php",
+		"/C/openserver/domains/roof.dev/app/index.php",
+		"/C/OpenServer/domains/roof.dev/app/scss/main.scss",
+		"/C/openserver/domains/shop.dev/gulpfile.js",
+		"/C/Users/Технокровля/Desktop/Активные лофтовчане.txt",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/tpl_footer.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/tpl_meta.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/tpl_header.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/tpl_scripts.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/tpl_nav.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/scr_yam.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/scr_jsonld.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/scr_ga.php",
+		"/C/openserver/domains/carlson.dev/app/mailer.php",
+		"/C/OpenServer/domains/carlson.dev/app/index.php",
+		"/C/openserver/domains/carlson.dev/app/scss/main.scss",
+		"/C/Users/Технокровля/Desktop/index.html",
+		"/C/openserver/domains/carlson.dev/app/img/svg/dog.svg",
+		"/C/openserver/domains/carlson.dev/dist/img/svg/dog.svg",
+		"/C/OpenServer/domains/carlson.dev/gulpfile.js",
+		"/C/openserver/domains/carlson.dev/dist/.htaccess",
+		"/C/openserver/domains/carlson.dev/gulpfile.js",
+		"/C/openserver/domains/carlson.dev/dist/sitemap.xml",
+		"/C/Users/Технокровля/Desktop/main.css",
+		"/C/openserver/domains/carlson.dev/app/thanks.php",
+		"/C/openserver/domains/carlson.dev/app/404.php",
+		"/C/openserver/domains/carlson.dev/app/.htaccess",
+		"/C/Users/Технокровля/Desktop/mailer.php",
+		"/C/OpenServer/domains/roof.dev/app/index.php",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/tpl_header.php",
+		"/C/openserver/domains/roof.dev/app/img/logo-long.svg",
+		"/C/OpenServer/domains/roof.dev/app/img/menu-icon.svg",
+		"/C/openserver/domains/roof.dev/app/img/menu-icon.svg",
+		"/C/openserver/domains/roof.dev/app/obrabotchik.php",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/tpl_scripts.php",
+		"/C/openserver/domains/kurt.dev/app/.htaccess",
+		"/C/openserver/domains/kurt.dev/app/404.php",
+		"/C/openserver/domains/kurt.dev/app/pages/tpl/json-ld.php",
+		"/C/openserver/domains/kurt.dev/app/pages/tpl/yandex-metrika.php",
+		"/C/openserver/domains/kurt.dev/app/pages/tpl/google-analytics.php",
+		"/C/openserver/domains/kurt.dev/dist/.htaccess",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/krep.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/products/bs.php",
+		"/C/OpenServer/domains/kurt.dev/app/pages/tpl/meta.php",
+		"/C/OpenServer/domains/carlson.dev/app/img/svg/triangle.svg",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/header-menu.php",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/meta.php",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/opengraph.php",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/appevent.php",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/popups.php",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/header.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/scripts/vk-widget.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/scripts/vk-retarget.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/scripts/appevent.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/scripts/yandex-metrika.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/scripts/ga.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/scripts/json-ld.php",
+		"/C/OpenServer/domains/carlson.dev/app/pages/tpl/popups.php",
+		"/C/Users/Технокровля/Desktop/index.php",
+		"/C/openserver/domains/kurt.dev/dist/mailer.php",
+		"/C/Users/Технокровля/Desktop/.htaccess",
+		"/C/openserver/domains/kurt.dev/dist/pages/thanks.php",
+		"/C/openserver/domains/kurt.dev/app/sitemap.xml",
+		"/C/openserver/domains/kurt.dev/app/pages/products/kov.php",
+		"/C/openserver/domains/kurt.dev/app/pages/products/krep.php",
+		"/C/openserver/domains/kurt.dev/app/pages/products/bs.php",
+		"/C/openserver/domains/kurt.dev/app/pages/products/dso.php",
+		"/C/openserver/domains/kurt.dev/app/pages/products/delivery.php",
+		"/C/OpenServer/domains/roof.dev/app/page_objects.php",
+		"/C/openserver/domains/roof.dev/app/page_objects.php",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/tpl_meta.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/meta.php",
+		"/C/openserver/domains/roof.dev/app/pages/tpl/header.php",
+		"/C/OpenServer/domains/roof.dev/app/img/logo.svg",
+		"/C/Users/Технокровля/Desktop/ga.php",
+		"/D/HARDDISKTECHNOKROVLYA/Технокровля Курган/Сайты/Действующие/proto.techno-krovlya.ru/index.php",
+		"/C/openserver/domains/roof.dev/app/img/logo.svg",
+		"/C/openserver/domains/kurt.dev/dist/index.php",
+		"/C/openserver/domains/roof.dev/app/mailer.php",
+		"/C/openserver/domains/roof.dev/app/css/libs.css",
+		"/C/openserver/domains/roof.dev/gulpfile.js",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/yandex-metrika.php",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/json-ld.php",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/google-analytics.php",
+		"/C/OpenServer/domains/roof.dev/app/pages/tpl/meta.php",
+		"/C/openserver/domains/carlson.dev/app/pages/tpl/svg/mail.svg",
+		"/C/OpenServer/domains/carlson.dev/app/scss/libs.scss"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"Доставка",
+			"\t",
+			"<a href=",
+			"</a>",
+			"<a href=",
+			"https:",
+			"prod_",
+			"header",
+			"https",
+			"-->",
+			"main",
+			"pages/tpl",
+			"<img",
+			"texta",
+			"<img",
+			"img",
+			"column3",
+			"frame",
+			"header",
+			"section.int",
+			".cap",
+			".address",
+			"пр. Машино",
+			"Выберите",
+			" выберите",
+			"выберите",
+			"border-bottom: 1px solid ",
+			"itemprop=\"contentUrl\"",
+			"jquery",
+			"</option>",
+			"<option value=\"\">",
+			" &ndash; ",
+			">",
+			"header-con",
+			"form",
+			"flex-st",
+			"textarea",
+			"addClass('flex')",
+			"removeClass('flex')",
+			"addClass('flex')",
+			"<button>",
+			"class=\"st0\"",
+			"min-w",
+			"max-w",
+			"inform",
+			"benefits ",
+			"menu",
+			"\n.",
+			"4em",
+			"class=\"st0\"",
+			"callback-li",
+			"\t\t<",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"table",
+			"<br>",
+			"\t*<br>",
+			"<a target=\"_blank\" href=",
+			"</a></li>",
+			"<li><a href=",
+			"\">Ссылка</a><a href=\"https:",
+			"<p><?=$item['prod_",
+			"\">ссылка</a><a href=\"https",
+			"img",
+			"",
+			"</td></tr>",
+			"<tr><td>",
+			"</td><td>",
+			"addClass('flex-popup')",
+			"removeClass('flex-popup')",
+			"addClass('flex-popup')",
+			"<button data-product=\"АААААААААААААААААА\" onclick=\"$('#order').addClass('flex'); $('#product-name').attr('value', $(this).attr('data-product'));\">",
+			"class=\"logo-color\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "main.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
